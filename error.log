@@ -1,2 +1,1 @@
-[22-Feb-2017 01:35:45 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/trero/templates/main_template.php on line 13
-[22-Feb-2017 02:55:31 Europe/Moscow] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root2'@'localhost' (using password: YES) in /var/www/html/trero/classes/db.php on line 7
+
